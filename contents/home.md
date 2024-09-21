@@ -2,7 +2,7 @@
 I am currently pursuing a DPhil in Psychiatry at the University of Oxford.
 
 #### Email
-grace.gillis[at]psych.ox.ac.uk
+grace.gillis@psych.ox.ac.uk
 
 #### Education
 MSc Clinical and Therapeutic Neuroscience – University of Oxford; Distinction (2020-2021)
