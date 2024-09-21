@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#3948d2;
+    --h-title-color:#030f82;
 }
 
 .header {
@@ -22,8 +22,8 @@
     height: 25rem;
 }
 
-.top-section h2 {
-    font-weight: 400;
+.top-section h6 {
+    font-weight: 100;
 }
 
 .top-section .top-section-content {
