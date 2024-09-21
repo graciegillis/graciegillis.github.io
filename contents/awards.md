@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- Alzheimer’s Research UK (ARUK) Thames Valley Network Travel Grant (2024; 2023)
 
-- Freshman Academic Scholarship, 2022.
+- Guarantors of the Brain Travel Grant (2024; 2023)
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Good Citizenship Award, Department of Psychiatry, University of Oxford (2024)
 
-- First-prize Enterprise Scholarship, 2021.
+- “Best Essays Overall” Prize, Department of Psychiatry, University of Oxford (2021)
 
-- First-prize Academic Scholarship, 2019.
+- Wellcome Trust Biomedical Vacation Scholarship (2019)

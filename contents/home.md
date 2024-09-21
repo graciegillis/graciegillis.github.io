@@ -1,16 +1,14 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a DPhil in Psychiatry at the University of Oxford.
 
 #### Email
-sli[at]cumt.edu.cn
+grace.gillis[at]psych.ox.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+MSc Clinical and Therapeutic Neuroscience – University of Oxford; Distinction (2020-2021)
+
+BSc Biomedical Sciences – University College London; 1st (2017-2020)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Translational Neuroimaging; Dementia and Cognitive Impairment; Multimorbidity; Personalised Medicine 
 

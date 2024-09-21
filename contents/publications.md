@@ -1,12 +1,9 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>G. Gillis</strong>, G. Bhalerao, J. Blane, et al. (2024). From Big Data to the clinic: methodological and statistical enhancements to implement the UK Biobank imaging framework in a memory clinic. [[Preprint]](https://www.medrxiv.org/content/10.1101/2024.08.02.24311402v1)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>G. Gillis</strong> (2023). White matter hyperintensities: Red flags for cognitive impairment?. St Catherine’s Academic Review. 
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- M. C. O’Donoghue, J. Blane, <strong>G. Gillis</strong>, et al. (2023). Oxford brain health clinic: Protocol and research database. BMJ Open. [[Paper]](https://bmjopen.bmj.com/content/13/8/e067808)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- L. Griffanti, <strong>G. Gillis</strong>, M. C. O’Donoghue, et al. (2022). Adapting UK biobank imaging for use in a routine memory clinic setting: The oxford brain health clinic. NeuroImage: Clinical. [[Paper]](https://www.sciencedirect.com/science/article/pii/S2213158222003382)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- P. Izquierdo, H. Shiina, C. Hirunpattarasilp, <strong>G. Gillis</strong>, and D. Attwell (2021). Synapse development is regulated by microglial THIK-1 k+ channels, Proceedings of the National Academy of Sciences. [[Paper]](https://www.pnas.org/doi/abs/10.1073/pnas.2106294118)
